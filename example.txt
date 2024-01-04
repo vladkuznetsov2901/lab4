@@ -1,0 +1,1 @@
+example.txt,D:\OperationSystems\lab4\dist
